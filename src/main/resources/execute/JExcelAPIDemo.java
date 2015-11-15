@@ -1,7 +1,7 @@
 package execute;
 
 /**
- * Main class - Process excel 2003-2007 spreadsheets with several options.
+ * Main class - Process excel 2003-2007 spreadsheets with several options. Check menu. 
  * 
  * @author juan_sepulveda
  * 
